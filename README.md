@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Mithare</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3> <a href = "https://www.linkedin.com/in/om-mithare-b0540b355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <p align="left">
 </p>
 
